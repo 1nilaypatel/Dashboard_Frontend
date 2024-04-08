@@ -11,6 +11,7 @@ export default {
         customPurple: '#694bdb',
         customPurple2: '#3c1ead',
         customBlack: '#1e1f23',
+        customBlack2: '#151718',
         customGreen: '#2bebc8',
         customOrange: '#ff7777',
         customYellow: '#f3c522',
