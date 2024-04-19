@@ -6,7 +6,7 @@ export default function App() {
     <div>
       <Router>
         <Routes>
-          <Route path={"/"} element={<DashboardLogin />} />
+          <Route path={"/"} element={<DashboardMain />} />
           <Route path={"/dashboard-login"} element={<DashboardLogin />} />
           <Route path={"/dashboard-login-dark-mode"} element={<DashboardLoginDark />} />
           <Route path={"/dashboard-main"} element={<DashboardMain />} />
